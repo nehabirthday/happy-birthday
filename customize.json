@@ -1,9 +1,9 @@
 {
-  "greeting": "Hiya",
-  "name": "Lydia",
-  "greetingText": "I really like your name btw!",
-  "wishText": "May the js.prototypes always be with you! ;)",
-  "imagePath": "img/lydia2.png",
+  "greeting": "Heyy!",
+  "name": "Neha",
+  "greetingText": "Bar bar din yeh aaye ! Bar bar din yeh aaye tum jiyo hajaro saal ! hai meri yeh aarzu !!",
+  "wishText": "Happy Birthday Neha ✨❤️ Stay blessed, mst khub uchaiyan ko chuoo May you get everything you ever dreamt for and even more Aur zyda socha mt karo , mst har moment ko enjoy kr ache se , You're the most motivated girl I've ever seen in my life , Thankyou for always being there and supporting always Blessed to have you in my life ❤️❤️ Aur Voh kahi padha tha na !wake up , workout , look hot! 🤣 yeh tumpr bhi applicable hota h 😏 ,mst fit reh aur mujhe bhi daant kr krwaya kr😝 Also aise hi mere sath hamesha competition krte raha kr😂 Cheers to all these years of friendship and looking to creating a hell lot of more together",
+  "imagePath": "img/neha.jpeg",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
   "sendButtonLabel": "Send",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
+  "outroText": "Enjoy your day, lots of love and warm wishes",
   "replayText": "Or click, if you want to watch it again.",
   "outroSmiley": ":)"
 }
